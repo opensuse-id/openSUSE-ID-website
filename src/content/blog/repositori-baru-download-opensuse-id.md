@@ -4,11 +4,11 @@ date: "2025-10-18"
 author: "Tim openSUSE Indonesia"
 category: komunitas
 excerpt: "Salam, Komunitas openSUSE Indonesia memiliki 2 repositori lokal yg dikelola mandiri. repo.opensuse.id dan twrepo.opensuse.id. VM repo oi merupakan donasi dari sebuah perusahaan IT di Jakarta telah beroperasi sejak 2018 melayani pengguna openSUSE di Indonesia dan Asia Tenggara. VM twrepo oi adalah..."
-image: "https://www.instagram.com/p/DP8SupYDrSF/media/?size=l"
+image: "https://raw.githubusercontent.com/opensuse-id/blog-images-restore/refs/heads/main/2025/repositori-baru-download-opensuse-id/openSUSE-iDxCloudKilat-d.o.i-FB.png"
 ---
 
 <div style="text-align: center; margin-bottom: 20px;">
-  <img src="https://www.instagram.com/p/DP8SupYDrSF/media/?size=l" alt="download.opensuse.id" style="max-width: 100%; height: auto;">
+  <img src="https://raw.githubusercontent.com/opensuse-id/blog-images-restore/refs/heads/main/2025/repositori-baru-download-opensuse-id/openSUSE-iDxCloudKilat-d.o.i-FB.png" alt="download.opensuse.id" style="max-width: 100%; height: auto;">
 </div>
 
 <p>Salam,</p>
