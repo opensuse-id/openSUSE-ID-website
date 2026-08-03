@@ -4,7 +4,13 @@ date: "2020-04-01"
 author: "Tim openSUSE Indonesia"
 category: kegiatan
 excerpt: "Pendaftaran peserta Konferensi Pekerja Teknologi Informasi (KonPeTI) sudah dibuka!   Ayo #GerakDariRumah segera daftarkan diri Anda dan sampai jumpa di udara   https://s.id/konpetipep"
-image: "https://opensuse.id/wp-content/uploads/2020/04/poster_pendaftaran_peserta.png"
+image: "https://raw.githubusercontent.com/opensuse-id/blog-images-restore/refs/heads/main/2020/pendaftaran-peserta-konpeti-dibuka/poster_pendaftaran_peserta.png"
 ---
 
-<p>Pendaftaran peserta Konferensi Pekerja Teknologi Informasi (KonPeTI) sudah dibuka!   Ayo #GerakDariRumah segera daftarkan diri Anda dan sampai jumpa di udara   https://s.id/konpetipep</p>
+![poster_pendaftaran_peserta.png](https://raw.githubusercontent.com/opensuse-id/blog-images-restore/refs/heads/main/2020/pendaftaran-peserta-konpeti-dibuka/poster_pendaftaran_peserta.png)
+
+Pendaftaran peserta Konferensi Pekerja Teknologi Informasi (KonPeTI) sudah dibuka!
+ 
+Ayo #GerakDariRumah segera daftarkan diri Anda dan sampai jumpa di udara
+ 
+[https://s.id/konpetipep](https://s.id/konpetipep)

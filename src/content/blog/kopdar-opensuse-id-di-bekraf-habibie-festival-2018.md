@@ -4,7 +4,9 @@ date: "2018-09-20"
 author: "Tim openSUSE Indonesia"
 category: kegiatan
 excerpt: "RSVP: https://gettogether.community/events/219/kopdar-opensuse-id-di-bekraf-habibie-festival-2018/"
-image: "https://opensuse.id/wp-content/uploads/2018/09/kopdar-BHF-2018-250x250.png"
+image: "https://raw.githubusercontent.com/opensuse-id/blog-images-restore/refs/heads/main/2018/kopdar-opensuse-id-di-bekraf-habibie-festival-2018/kopdar-BHF-2018.png"
 ---
 
-<p>RSVP: https://gettogether.community/events/219/kopdar-opensuse-id-di-bekraf-habibie-festival-2018/</p>
+![kopdar-BHF-2018](https://raw.githubusercontent.com/opensuse-id/blog-images-restore/refs/heads/main/2018/kopdar-opensuse-id-di-bekraf-habibie-festival-2018/kopdar-BHF-2018.png)
+
+RSVP: https://gettogether.community/events/219/kopdar-opensuse-id-di-bekraf-habibie-festival-2018/
