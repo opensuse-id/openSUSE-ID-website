@@ -18,7 +18,7 @@ Bagi yang belum memiliki tiket, segera dapatkan sebelum kehabisan!
 
 📝Catatan Penting: Ini merupakan draf jadwal sementara (Pre-Schedule). Beberapa perubahan terkait urutan waktu, ruangan atau pembicara mungkin masih dapat terjadi hingga hari H.
 
-Versi pdf dapat diunduh [disini](https://github.com/user-attachments/files/30702367/openSUSE.Asia.Summit.2026.Pre-Schedule.pdf).
+Versi pdf dapat diunduh [disini](https://github.com/user-attachments/files/30704456/openSUSE.Asia.Summit.2026.Pre-Schedule.pdf).
 
 ---
 # openSUSE.Asia Summit 2026 Schedule
@@ -32,7 +32,7 @@ Versi pdf dapat diunduh [disini](https://github.com/user-attachments/files/30702
 | 09.25-10.05 (40 min) | Keynote #1 - openSUSE Board - Patrick Fitzgerald - The Great Migration | | | | |
 | 10.05-10.35 (30 min) | Keynote #2 - TBD | | | | |
 | 10.35-11.00 (25 min) | Group Photo Session & Tea Break | | | | |
-| 11.00-11.45 (45 min) | openSUSE Leap Server as an Ideal Platform for Enterprise Data Lakehouse<br>**Speaker:** Bambang Purnomosidi Dwi Putranto | Security for (not only openSUSE) developers<br>**Speaker:** Johannes Segitz | Getting the next generation to learn the GNU/Linux system<br>**Speaker:** James Ed Randson | Open Source and the Future of Innovation<br>**Speaker:** Shobha Tyagi | |
+| 11.00-11.45 (45 min) | openSUSE Leap Server as an Ideal Platform for Enterprise Data Lakehouse<br>**Speaker:** Bambang Purnomosidi Dwi Putranto | Security for (not only openSUSE) developers<br>**Speaker:** Johannes Segitz | Getting the next generation to learn the GNU/Linux system<br>**Speaker:** James Ed Randson | Open Source and the Future of Innovation<br>**Speaker:** Shobha Tyagi | Demystifying Kernel Modules and Hardening Your openSUSE System<br>**Speaker:** Kamal Fasya|
 | 11.45-13.00 (75 min) | Break & Lunch | Break & Lunch | Break & Lunch | Break & Lunch | Break & Lunch |
 | 13.00-13.45 (45 min) | The Invisible Infrastructure of Community: Building Communities People Want to Stay In<br>**Speaker:** Herpiko Dwiaguno | Demystifying Server Security: A Beginner-Friendly Intro to Wazuh and openSUSE Leap 16<br>**Speaker:** Darian Rizaludin | I Put a KDE Desktop in a Pod Because I Could: Gaming with CNCF Infrastructure<br>**Speaker:** Aldin Setiawan | From DNS Query to Nearest Edge: Geographic Load Balancing with gdnsd and MaxMind GeoIP2<br>**Speaker:** Moh. Ali | Workshop:<br>From Zero to Uyuni: Building a Reproducible Systems Management Lab with openSUSE, RKE2 and Helm<br>**Speaker:** Akash Kumar |
 | 13.45-14.30 (45 min) | Symbiot Office<br>LibreOffice Engine on Your Tablet Device<br>**Speaker:** Ahmad Haris, Ahmad Romadhon H | Architecting Agentic AI Workflows: Bridging Language Processing and LLM Serving on openSUSE<br>**Speaker:** Muhammad Ikhwan Fathulloh | Kernel-Enforced Sandboxing for AI Agent Supply Chains with nono.sh<br>**Speaker:** Nizar Akbar | Forgotten Features of Inkscape<br>**Speaker:** Yudha Agung Gumelar | Workshop (Lanjutan):<br>From Zero to Uyuni: Building a Reproducible Systems Management Lab with openSUSE, RKE2 and Helm<br>**Speaker:** Akash Kumar |
