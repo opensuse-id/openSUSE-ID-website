@@ -3,7 +3,7 @@ title: "Pengumuman Pemenang Kompetisi Logo openSUSE.Asia Summit 2026"
 date: "2026-08-05"
 author: "Tim openSUSE Indonesia"
 category: kegiatan
-excerpt: ""
+excerpt: "Komite openSUSE.Asia Summit dengan bangga mengumumkan bahwa desain karya A. Thalida terpilih sebagai pemenang Kompetisi Logo openSUSE.Asia Summit 2026"
 image: "https://github.com/user-attachments/assets/b1beddb2-4e58-42a0-88f9-19133d7056eb"
 ---
 
