@@ -9,7 +9,7 @@ image: "https://github.com/user-attachments/assets/b1beddb2-4e58-42a0-88f9-19133
 
 ![oSAS26-logo](https://github.com/user-attachments/assets/b1beddb2-4e58-42a0-88f9-19133d7056eb)
 
-## 🎨 [Pemenang Kompetisi Logo openSUSE.Asia Summit 2026 Resmi Diumumkan!](https://news.opensuse.org/2026/08/05/osas-2026-logo-winner/)
+## 🎨 [Pemenang Kompetisi Logo openSUSE.Asia Summit 2026 Resmi Diumumkan!](https://news.opensuse.org/2026/08/04/osas-2026-logo-winner/)
 
 Komite openSUSE.Asia Summit dengan bangga mengumumkan bahwa desain karya **A. Thalida** terpilih sebagai pemenang **Kompetisi Logo openSUSE.Asia Summit 2026**.
 
