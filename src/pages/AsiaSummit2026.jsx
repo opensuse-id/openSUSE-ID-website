@@ -6,7 +6,7 @@ const AsiaSummit2026 = () => {
     { label: 'Status', value: 'Sudah diumumkan', icon: Sparkles },
     { label: 'Acara', value: 'openSUSE.Asia Summit 2026', icon: Globe2 },
     { label: 'Tanggal', value: '3-4 Oktober 2026', icon: Calendar },
-    { label: 'Lokasi', value: 'Universitas Gadjah Mada, Yogyakarta', icon: MapPin },
+    { label: 'Lokasi', value: 'Convention Hall Universitas Islam Negeri (UIN) Sunan Kalijaga, Yogyakarta', icon: MapPin },
   ];
 
   const highlights = [
@@ -56,7 +56,7 @@ const AsiaSummit2026 = () => {
               openSUSE.Asia Summit 2026
             </h1>
             <p className="text-xl md:text-2xl opacity-95 mb-8 max-w-3xl mx-auto leading-relaxed">
-              Konferensi komunitas openSUSE untuk kawasan Asia akan diadakan pada 3-4 Oktober 2026 di Universitas Gadjah Mada, Yogyakarta.
+              Konferensi komunitas openSUSE untuk kawasan Asia akan diadakan pada 3-4 Oktober 2026 di Convention Hall Universitas Islam Negeri (UIN) Sunan Kalijaga, Yogyakarta.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a
@@ -121,7 +121,7 @@ const AsiaSummit2026 = () => {
                 Acara ini menjadi ruang untuk berbagi pengetahuan, pengalaman, dan membangun kolaborasi antar komunitas.
               </p>
               <p className="text-lg text-gray-700 leading-relaxed mb-6">
-                Untuk edisi 2026, konferensi akan berlangsung pada 3-4 Oktober 2026 di Universitas Gadjah Mada, Yogyakarta.
+                Untuk edisi 2026, konferensi akan berlangsung pada 3-4 Oktober 2026 di Convention Hall Universitas Islam Negeri (UIN) Sunan Kalijaga, Yogyakarta.
                 Halaman ini menjadi pengantar awal untuk informasi agenda, pembicara, dan aktivitas komunitas.
               </p>
               <p className="text-lg text-gray-700 leading-relaxed">
