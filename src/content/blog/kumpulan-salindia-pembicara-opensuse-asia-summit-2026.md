@@ -7,7 +7,7 @@ excerpt: "Berikut ini merupakan kummpulan salindia pembicara openSUSE.Asia Summi
 image: "https://github.com/user-attachments/assets/4429df99-b13f-47ad-be45-5f7cb5026aba"
 ---
 
-Berikut ini merupakan kummpulan salindia (_slide_) pembicara openSUSE.Asia Summit 2026. Daftar berikut diurutkan berdasarkan alfabet. Anda dapat juga mengaksesnya di halaman [openSUSE Slides](https://opensuse.github.io/slides/). Halaman ini akan diupdate secara berkala.
+Berikut ini merupakan kumpulan salindia (_slide_) pembicara openSUSE.Asia Summit 2026. Daftar berikut diurutkan berdasarkan alfabet. Anda dapat juga mengaksesnya di halaman [openSUSE Slides](https://opensuse.github.io/slides/). Halaman ini akan diupdate secara berkala.
 
 1.	Aayan Mateen	- 	Securing the Modern Stack: Containers, Open Source, and the Tools Keeping Up
 1.	Ahmad Haris & Ahmad Romadhon H	- 	Symbiot Office: LibreOffice Engine on Your Tablet Device
@@ -47,7 +47,6 @@ Berikut ini merupakan kummpulan salindia (_slide_) pembicara openSUSE.Asia Summi
 1.	Muhammad Ikhwan Fathulloh	- 	Architecting Agentic AI Workflows: Bridging Language Processing and LLM Serving on openSUSE
 1.	Muhammad Najib	- 	Which Linux Distribution Performs Best for Containerized WordPress?
 1.	[Muhammad Raihan Widagdo	- 	The Pragmatic Skripsi: How I Wrote My Undergraduate Thesis Using FOSS on openSUSE](https://opensuse.github.io/slides/presentations/opensuse-asia-summit-2026-the-pragmatic-skripsi-how-i-wrote-my-undergra-muhammad-raihan-widagdo.pdf)
-1.	name	- 	title
 1.	Nayla Putri Danisa	- 	Breaking the "Linux is Hard" Stigma: A Honest Beginner's Perspective on Navigating the Technology Barrier
 1.	Ni Putu Sintia Wati	- 	Container Observability on openSUSE: A Practical Guide with Prometheus, cAdvisor, and Grafana
 1.	Nizar Akbar	- 	Kernel-Enforced Sandboxing for AI Agent Supply Chains with nono.sh
