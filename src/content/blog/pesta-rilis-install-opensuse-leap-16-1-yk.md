@@ -46,7 +46,7 @@ Baik kamu pengguna setia Linux maupun yang baru penasaran dengan openSUSE, yuk k
 | ⏰ **Waktu** | 15:00 WIB / 08:00 UTC |
 | 📍 **Lokasi** | Ruang 103, Fakultas Sains dan Teknologi, UIN Sunan Kalijaga, Yogyakarta |
 | 👥 **Kapasitas** | 50 Orang (Offline) |
-| 🎟️ **HTM** | **GRATIS!** |
+| 🎟️ **Pendaftaran** | [https://s.id/Z0Fg9](https://s.id/Z0Fg9) |
 
 ---
 
