@@ -16,6 +16,7 @@ Berikut ini merupakan kumpulan cerita, artikel blog, dan catatan pengalaman sepu
 3. [openSUSE Asia Summit 2026 Yogyakarta](https://aguno.xyz/post/2026/10/20/opensuse-asia-summit-2026-yogyakarta/) - Herpiko Dwi Aguno
 4. [My Journey to openSUSE.Asia Summit 2026](https://awanweb.com/oSAS2026/oSASjourney.html) - Ernawan
 5. [From Bandung to Yogyakarta: My openSUSE Asia Summit 2026 Story](https://sitidy.id/from-bandung-to-yogyakarta-my-opensuse-asia-summit-2026-story-23a29b42f910?sharedUserId=sitidy) - Didiet
+6. [My Journey to the openSUSE Asia Summit (oSAS) 2026 in Yogyakarta (Dapat dibaca dari Planet openSUSE)](https://pen.waltuh.cyou/jims-computing-blog/my-journey-to-the-opensuseasia-summit-osas-2026-in-yogyakarta) - James "Jim" Ed Randson
 
 ## Peserta
 
