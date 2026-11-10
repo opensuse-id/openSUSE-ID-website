@@ -195,7 +195,7 @@ const DonasiPage = () => {
                 <a href={`mailto:${rekening.email}`} className="text-[#1c9dd9] hover:text-[#1889c0] font-medium">
                   {rekening.email}
                 </a>{' '}
-                agar donasi Anda dapat dicatat dengan baik. Terimah kasih atas kontribusi Anda!
+                agar donasi Anda dapat dicatat dengan baik. Terima kasih atas kontribusi Anda!
               </p>
             </div>
           </div>
