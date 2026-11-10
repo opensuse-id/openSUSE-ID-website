@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Link, useLocation } from 'react-router-dom';
-import { Menu, X, ChevronDown } from 'lucide-react';
+import { Menu, X, ChevronDown, Heart } from 'lucide-react';
 import ImageWithFallback from './ImageWithFallback';
 
 const Layout = ({ children }) => {
@@ -151,6 +151,17 @@ const Layout = ({ children }) => {
                 Repositori
               </Link>
               <Link 
+                to="/donasi" 
+                className={`ml-2 px-6 py-2 font-medium rounded-lg transition-all shadow-sm flex items-center ${
+                  isActive('/donasi') 
+                    ? 'bg-[#5ea01d] text-white' 
+                    : 'bg-[#73ba25] hover:bg-[#5ea01d] text-white transform hover:scale-105'
+                }`}
+              >
+                <Heart className="mr-2 h-4 w-4" fill="currentColor" />
+                Donasi
+              </Link>
+              <Link 
                 to="/hubungi" 
                 className="ml-2 px-6 py-2 bg-[#1c9dd9] hover:bg-[#1889c0] text-white font-medium rounded-lg transition-all transform hover:scale-105 shadow-sm"
               >
@@ -236,6 +247,14 @@ const Layout = ({ children }) => {
                 Repositori
               </Link>
               <Link 
+                to="/donasi" 
+                className="block px-4 py-3 bg-[#73ba25] text-white hover:bg-[#5ea01d] rounded-lg transition-colors mx-4 mt-2 text-center font-medium flex items-center justify-center"
+                onClick={() => setMobileMenuOpen(false)}
+              >
+                <Heart className="mr-2 h-4 w-4" fill="currentColor" />
+                Donasi
+              </Link>
+              <Link 
                 to="/hubungi" 
                 className="block px-4 py-3 bg-[#1c9dd9] text-white hover:bg-[#1889c0] rounded-lg transition-colors mx-4 mt-2 text-center font-medium"
                 onClick={() => setMobileMenuOpen(false)}
@@ -272,6 +291,7 @@ const Layout = ({ children }) => {
                 <Link to="/tentang-opensuse" className="block text-gray-400 hover:text-white transition-colors">Tentang openSUSE</Link>
                 <Link to="/blog" className="block text-gray-400 hover:text-white transition-colors">Blog</Link>
                 <Link to="/repositori" className="block text-gray-400 hover:text-white transition-colors">Repositori</Link>
+                <Link to="/donasi" className="block text-gray-400 hover:text-white transition-colors">Donasi</Link>
                 <Link to="/hubungi" className="block text-gray-400 hover:text-white transition-colors">Hubungi Kami</Link>
               </nav>
             </div>

@@ -8,6 +8,7 @@ import BlogPage from './pages/BlogPage';
 import BlogPost from './pages/BlogPost';
 import TulisArtikel from './pages/TulisArtikel';
 import Repositori from './pages/Repositori';
+import DonasiPage from './pages/DonasiPage';
 import HubungiPage from './pages/HubungiPage';
 import AsiaSummit2016 from './pages/AsiaSummit2016';
 import AsiaSummit2019 from './pages/AsiaSummit2019';
@@ -29,6 +30,7 @@ function App() {
             <Route path="/tulis-artikel" element={<TulisArtikel />} />
             <Route path="/blog/:slug" element={<BlogPost />} />
             <Route path="/repositori" element={<Repositori />} />
+            <Route path="/donasi" element={<DonasiPage />} />
             <Route path="/hubungi" element={<HubungiPage />} />
             <Route path="/konferensi/opensuse-asia-summit-2016" element={<AsiaSummit2016 />} />
             <Route path="/konferensi/opensuse-asia-summit-2019" element={<AsiaSummit2019 />} />
