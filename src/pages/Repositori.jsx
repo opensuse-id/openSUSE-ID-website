@@ -30,7 +30,7 @@ const Repositori = () => {
                 <div className="space-y-2 mb-4">
                   <div className="flex items-start">
                     <span className="text-[#73ba25] mr-2 text-sm">✓</span>
-                    <span className="text-gray-700 text-sm">openSUSE Leap 15.x</span>
+                    <span className="text-gray-700 text-sm">openSUSE Leap 15.6 & 16.x</span>
                   </div>
                   <div className="flex items-start">
                     <span className="text-[#73ba25] mr-2 text-sm">✓</span>
@@ -234,14 +234,13 @@ const Repositori = () => {
               <div className="bg-white rounded-lg shadow-md p-6">
                 <h3 className="text-xl font-bold text-gray-900 mb-3">Untuk openSUSE Leap</h3>
                 <p className="text-gray-700 mb-3 text-sm">
-                  Tambahkan repositori lokal menggunakan YaST atau zypper:
+                  Tambahkan repositori openSUSE Leap:
                 </p>
                 <div className="bg-gray-900 text-gray-100 rounded-lg p-3 overflow-x-auto">
                   <pre className="text-xs">
                     <code>{`# Menggunakan zypper
-sudo zypper ar -f https://download.opensuse.id/distribution/leap/15.5/repo/oss/ opensuse-id-oss
-sudo zypper ar -f https://download.opensuse.id/distribution/leap/15.5/repo/non-oss/ opensuse-id-non-oss
-sudo zypper ar -f https://download.opensuse.id/update/leap/15.5/oss/ opensuse-id-update
+sudo zypper ar -f https://download.opensuse.id/distribution/leap/16.1/repo/oss/ opensuse-id-oss
+sudo zypper ar -f https://download.opensuse.id/distribution/leap/16.1/repo/non-oss/ opensuse-id-non-oss
 
 # Refresh repository
 sudo zypper ref`}</code>
@@ -252,7 +251,7 @@ sudo zypper ref`}</code>
               <div className="bg-white rounded-lg shadow-md p-6">
                 <h3 className="text-xl font-bold text-gray-900 mb-3">Untuk openSUSE Tumbleweed</h3>
                 <p className="text-gray-700 mb-3 text-sm">
-                  Tambahkan repositori Tumbleweed:
+                  Tambahkan repositori openSUSE Tumbleweed:
                 </p>
                 <div className="bg-gray-900 text-gray-100 rounded-lg p-3 overflow-x-auto">
                   <pre className="text-xs">
