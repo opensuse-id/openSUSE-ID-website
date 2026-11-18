@@ -13,7 +13,7 @@ Halo Purwokerto, Purbalingga, dan sekitarnya! 🦎✨
 
 Open Source Community HMTE Unsoed mempersembahkan openSUSE Leap 16.1 Release Party! Yuk kenalan lebih dekat dengan openSUSE Leap! 
 
-🚀 Mengenal Lebih Dekat dengan openSUSE Leap (Muhammad Edwin, openSUSE-ID)
+🚀 Mengenal Lebih Dekat dengan openSUSE Leap (Muhammad Edwin, openSUSE-ID)   
 💻 Demo Instalasi openSUSE Leap 16.1 (Open Source Community HMTE Unsoed)
 
 📅 Jumat, 20 November 2026   
