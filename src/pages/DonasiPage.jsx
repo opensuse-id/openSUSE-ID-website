@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Heart, Landmark, Copy, Check, Server, Users, GraduationCap, Mail } from 'lucide-react';
+import { Heart, Landmark, Copy, Check, Server, Users, GraduationCap, Mail, QrCode } from 'lucide-react';
 
 const rekening = {
   bank: 'BSI (Bank Syariah Indonesia)',
@@ -60,7 +60,7 @@ const DonasiPage = () => {
           <div className="max-w-4xl mx-auto">
             <h2 className="text-3xl font-bold text-gray-900 mb-6 text-center">Rekening Donasi</h2>
             <p className="text-gray-700 mb-8 text-center">
-              Anda dapat melakukan donasi melalui transfer bank ke rekening resmi berikut:
+              Anda dapat melakukan donasi melalui transfer bank ke rekening resmi berikut, atau scan QRIS di bawah:
             </p>
 
             <div className="bg-white rounded-2xl shadow-lg border border-gray-100 overflow-hidden">
@@ -69,9 +69,6 @@ const DonasiPage = () => {
                   <Landmark className="h-6 w-6 mr-3" />
                   <span className="font-bold text-lg">Rekening Resmi Komunitas</span>
                 </div>
-                <span className="text-white/90 text-sm font-medium hidden sm:block">
-                  {rekening.bank}
-                </span>
               </div>
 
               <div className="p-6 sm:p-8">
@@ -112,6 +109,26 @@ const DonasiPage = () => {
                     </button>
                   </div>
                 </div>
+              </div>
+            </div>
+
+            {/* QRIS */}
+            <div className="mt-12 bg-white rounded-2xl shadow-lg border border-gray-100 overflow-hidden">
+              <div className="flex items-center bg-[#1c9dd9] px-6 py-4 text-white">
+                <QrCode className="h-6 w-6 mr-3" />
+                <span className="font-bold text-lg">Donasi via QRIS</span>
+              </div>
+              <div className="p-6 sm:p-8 text-center">
+                <p className="text-gray-700 mb-6">
+                  Scan kode QRIS berikut menggunakan aplikasi mobile banking atau e-wallet
+                  favorit Anda (GoPay, OVO, DANA, ShopeePay, LinkAja, dll).
+                </p>
+                <img
+                  src="/qris.jpg"
+                  alt="Kode QRIS donasi openSUSE Indonesia"
+                  className="mx-auto w-full max-w-sm rounded-xl border border-gray-100 shadow-md"
+                  loading="lazy"
+                />
               </div>
             </div>
 
